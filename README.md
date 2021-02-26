@@ -1,3 +1,5 @@
+Pics is a React Application that has a search bar and list of photos that is scrollable. Images are displayed on the screen related to the search term entered in the search bar. Unsplash api is used to fetch the images related to the search term.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
